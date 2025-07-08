@@ -1,6 +1,7 @@
 
 import logo from './assets/logo.jpg';
 import truck from './assets/truck.jpg';
+import { Analytics } from '@vercel/analytics/react';
 
 function App() {
   return (
