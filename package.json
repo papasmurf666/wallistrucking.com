@@ -1,4 +1,3 @@
-
 {
   "name": "wallis-trucking",
   "version": "0.0.1",
@@ -9,6 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.5.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
